@@ -1,1 +1,1 @@
-web: java -jar lacarta-be-graphql.jar
+web: java -jar lacarta-0.0.1-SNAPSHOT.jar
