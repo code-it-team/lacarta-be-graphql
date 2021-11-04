@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>lacarta</finalName>
 	</build>
 
 </project>
